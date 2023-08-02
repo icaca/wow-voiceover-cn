@@ -1,0 +1,22 @@
+遇到问题请反馈到交流群 906277246
+
+插件包含两个部分，请看清楚版本后，下载并解压缩到Interface\Addons\下
+
+官服：
+AI_VoiceOver-WoW_BlizzClassic.zip
+AI_VoiceOverData_Vanilla.zip
+
+1.12 香草
+AI_VoiceOver-WoW_1.12.zip
+AI_VoiceOverData_Vanilla.zip
+
+2.4.3 TBC
+AI_VoiceOver-WoW_2.4.3.zip
+AI_VoiceOverData_Vanilla.zip
+
+3.3.5 巫妖王之怒
+AI_VoiceOver-WoW_3.3.5.zip
+AI_VoiceOverData_Vanilla.zip
+
+
+乌龟服不支持中文字体，请使用原版AI_VoiceOver，语音包可以用中文的
